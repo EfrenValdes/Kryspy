@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A60CAB78-05A8-4E50-8016-5DBE24004037}|WebAppPanaderia.Servicios.Venta\\WebAppPanaderia.Servicios.Venta.csproj|c:\\users\\efrenvaldescarlos\\source\\repos\\webapppanaderia\\webapppanaderia.servicios.venta\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60CAB78-05A8-4E50-8016-5DBE24004037}|WebAppPanaderia.Servicios.Venta\\WebAppPanaderia.Servicios.Venta.csproj|solutionrelative:webapppanaderia.servicios.venta\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60CAB78-05A8-4E50-8016-5DBE24004037}|WebAppPanaderia.Servicios.Venta\\WebAppPanaderia.Servicios.Venta.csproj|c:\\users\\efrenvaldescarlos\\source\\repos\\webapppanaderia\\webapppanaderia.servicios.venta\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60CAB78-05A8-4E50-8016-5DBE24004037}|WebAppPanaderia.Servicios.Venta\\WebAppPanaderia.Servicios.Venta.csproj|solutionrelative:webapppanaderia.servicios.venta\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60CAB78-05A8-4E50-8016-5DBE24004037}|WebAppPanaderia.Servicios.Venta\\WebAppPanaderia.Servicios.Venta.csproj|c:\\users\\efrenvaldescarlos\\source\\repos\\webapppanaderia\\webapppanaderia.servicios.venta\\dbconnection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60CAB78-05A8-4E50-8016-5DBE24004037}|WebAppPanaderia.Servicios.Venta\\WebAppPanaderia.Servicios.Venta.csproj|solutionrelative:webapppanaderia.servicios.venta\\dbconnection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F07B073-D179-489F-AED4-AC790AB45867}|WebAppPanaderia\\WebAppPanaderia.csproj|C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\webapppanaderia\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F07B073-D179-489F-AED4-AC790AB45867}|WebAppPanaderia\\WebAppPanaderia.csproj|solutionrelative:webapppanaderia\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F07B073-D179-489F-AED4-AC790AB45867}|WebAppPanaderia\\WebAppPanaderia.csproj|C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\webapppanaderia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F07B073-D179-489F-AED4-AC790AB45867}|WebAppPanaderia\\WebAppPanaderia.csproj|solutionrelative:webapppanaderia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F07B073-D179-489F-AED4-AC790AB45867}|WebAppPanaderia\\WebAppPanaderia.csproj|C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\webapppanaderia\\views\\venta\\venta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F07B073-D179-489F-AED4-AC790AB45867}|WebAppPanaderia\\WebAppPanaderia.csproj|solutionrelative:webapppanaderia\\views\\venta\\venta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F07B073-D179-489F-AED4-AC790AB45867}|WebAppPanaderia\\WebAppPanaderia.csproj|C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\webapppanaderia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F07B073-D179-489F-AED4-AC790AB45867}|WebAppPanaderia\\WebAppPanaderia.csproj|solutionrelative:webapppanaderia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia.Servicios.Venta\\DbConnection\\DbConnection.cs",
+              "RelativeDocumentMoniker": "WebAppPanaderia.Servicios.Venta\\DbConnection\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia.Servicios.Venta\\DbConnection\\DbConnection.cs",
+              "RelativeToolTip": "WebAppPanaderia.Servicios.Venta\\DbConnection\\DbConnection.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:18:54.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia.Servicios.Venta\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "WebAppPanaderia.Servicios.Venta\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia.Servicios.Venta\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "WebAppPanaderia.Servicios.Venta\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:39:56.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia.Servicios.Venta\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAppPanaderia.Servicios.Venta\\Startup.cs",
+              "ToolTip": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia.Servicios.Venta\\Startup.cs",
+              "RelativeToolTip": "WebAppPanaderia.Servicios.Venta\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:08:56.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "WebAppPanaderia\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "WebAppPanaderia\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:17:03.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Venta.cshtml",
+              "DocumentMoniker": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia\\Views\\Venta\\Venta.cshtml",
+              "RelativeDocumentMoniker": "WebAppPanaderia\\Views\\Venta\\Venta.cshtml",
+              "ToolTip": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia\\Views\\Venta\\Venta.cshtml",
+              "RelativeToolTip": "WebAppPanaderia\\Views\\Venta\\Venta.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:51:19.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppPanaderia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppPanaderia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:42:18.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppPanaderia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\EfrenValdesCarlos\\source\\repos\\WebAppPanaderia\\WebAppPanaderia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppPanaderia\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:37:46.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "Panadería | Registro Cliente";
+}
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="title">Registro Clientes</h1>
+        <form>
+            <label>Nombre:</label>
+            <input type="text" id="nombre" name="nombre" />
+            <br />
+            <label>Dirección:</label>
+            <input type="text" id="direccion" name="direccion" />
+            <br />
+            <label>Tipo de dona:</label>
+            <select id="tipoDona" name="tipoDona">
+                @foreach (var tipoDona in ViewBag.TiposDona)
+                {
+                    <option value="@tipoDona.Id">@tipoDona.Nombre</option>
+                }
+            </select>
+            <br />
+            <label>Cantidad:</label>
+            <input type="number" id="cantidad" name="cantidad" />
+            <br />
+            <button type="submit">Registrar</button>
+        </form>
+        <button onclick="location.href='@Url.Action("Venta", "Venta")'">Ver Ventas</button>
+    </section>
+</main>
+
+<script>
+    $(document).ready(function () {
+        $("form").submit(function (e) {
+            e.preventDefault();
+            var formData = {
+                nombre: $("#nombre").val(),
+                direccion: $("#direccion").val(),
+                tipoDona: $("#tipoDona").val(),
+                cantidad: $("#cantidad").val()
+            };
+            $.ajax({
+                type: "POST",
+                url: "/Home/RegistrarCliente",
+                data: formData,
+                success: function (data) {
+                    console.log(data);
+                }
+            });
+        });
+    });
+</script>

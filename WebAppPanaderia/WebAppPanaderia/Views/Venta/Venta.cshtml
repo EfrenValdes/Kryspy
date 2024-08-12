@@ -1,0 +1,42 @@
+﻿@model IEnumerable<WebAppPanaderia.Models.Venta>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ventas</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ventas de donas de chocolate</h1>
+    <table>
+        <tr>
+            <th>Cantidad</th>
+            <th>Tipo de dona</th>
+        </tr>
+        @foreach (var venta in Model)
+        {
+            <tr>
+                <td>@venta.Cantidad</td>
+                <td>@venta.TipoDona.Nombre</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
